@@ -1,3 +1,0 @@
-# HW
-
-# Welcome Git
