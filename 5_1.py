@@ -4,7 +4,7 @@ num_3 = int(input('Введите третье число(сколько чис�
 itera = 0
 sch = num_1
 
-while not(itera == num_3):
+while itera != num_3:
 
     if not(sch % num_2):
         print(sch, end= ' ')
