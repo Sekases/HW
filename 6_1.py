@@ -22,3 +22,6 @@ def int_to_bin_and_r(num):
     for i in text:
         sum += i
     return sum
+
+a = int_to_bin_and_r(num)
+print(a)
