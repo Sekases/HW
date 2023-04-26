@@ -27,13 +27,3 @@ class Taxi:
 
 
 
-
-
-
-
-
-
-
-kos = Car('красная', 4, True)
-
-print(kos)
